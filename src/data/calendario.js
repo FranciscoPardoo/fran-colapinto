@@ -1,9 +1,4 @@
 const carrerasRestantes = [
-    { 
-        ronda: 16,
-        fecha: "30 Septiembre - 1 Agosto 2024",
-        nombre: "FÓRMULA 1 PIRELLI GRAN PREMIO DE ITALIA",
-        circuito: "Autodromo Nazionale Monza" },
     {
         ronda: 17,
         fecha: "15 SEP 2024", 
